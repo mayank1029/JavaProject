@@ -6,6 +6,6 @@ public class Main {
 		if (args.length > 0) {
 			str = args[0];
 		}
-		System.out.printf("Hello %s!", str);
+		System.out.printf("Hello Mayank %s!", str);
 	}
 }
